@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdulai Bah</h1>
 <h3 align="center">A passionate frontend and backend developer from West Africa, Sierra Leone.</h3>
 
-<div class="tenor-gif-embed" data-postid="17808553" data-share-method="host" data-aspect-ratio="0.8875" data-width="100%"><a href="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553">Coding Typing GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulai123&label=Profile%20views&color=0e75b6&style=flat" alt="abdulai123" /> </p>
 
